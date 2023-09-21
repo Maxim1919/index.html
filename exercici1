@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Exercici 1</title>
+</head>
+<body style="background-color: #d0a3e3;">
+<div class="t">
+    <div class="ulls">
+        <div class="dreta"></div>
+        <div class="esquerra"></div>
+    </div>
+    <div class="b">
+        <div class="b1"><div class="b2"></div></div>
+    </div>
+</div>
+<h1>Primer exercici</h1>
+<h2>LA BIOGRAFIA</h2>
+<br>
+<p class="p1">Aqui comença la fackin bio:</p>
+<p>Vaig néixer en un petit poble el 1980. 
+    Als 18 anys, vaig traslladar-me a la ciutat per estudiar <b>Belles Arts</b> i em vaig enamorar de la pintura abstracta. 
+    <br>
+    Vaig viure èpoques d'èxit i altres d'incertesa, però sempre vaig seguir el meu <a href="https://ca.wikipedia.org/wiki/Cor">cor</a>. 
+    Avui, amb més de <strong>40 anys</strong>, continuo pintant i compartint la meva passió amb el món.</p>
+</body>
+</html>
